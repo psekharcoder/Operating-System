@@ -1,5 +1,5 @@
 # Operating System Notes
-
+Source: Tutorials Point
 
 📘 A complete collection of Operating System notes covering core concepts, memory management, process scheduling, synchronization, deadlocks, file systems, and system security for academics, placements, and interviews.
 
