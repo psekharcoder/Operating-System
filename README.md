@@ -16,7 +16,7 @@ Source: Tutorials Point
 - Process Life Cycle  
 - Process Control Block (PCB)  
 - Process Scheduling  
-- Scheduling Algorithms (FCFS, SJF, Round Robin, Priority, HRRN)  
+- Scheduling Algorithms (FCFS, SJF, Round Robin, Priority, HRRN)     
 - Threads & Multithreading  
 - Inter Process Communication (IPC)  
 - Context Switching  
