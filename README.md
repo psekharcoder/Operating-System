@@ -11,7 +11,7 @@ Source: Tutorials Point
 - Evolution of Operating Systems  
 - Types of Operating Systems  
 - OS Structure & Services  
-- Kernel & Command Interpreter  
+- Kernel & Command Interpreter     
 - Process Management  
 - Process Life Cycle  
 - Process Control Block (PCB)  
